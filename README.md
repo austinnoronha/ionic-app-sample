@@ -1,2 +1,3 @@
 # ionic-app-sample
-IONIC - Mobule HyBrid App Develpment - Sample / Example App
+
+IONIC & Angular JS - Mobile Hybrid App Develpment - Sample / Example App
